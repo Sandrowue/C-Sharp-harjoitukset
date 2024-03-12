@@ -43,7 +43,7 @@ namespace MoodTracker
 
             //Pidetään konsoli-ikkuna auki, kunnes painetaan <Enter>
             Console.ReadLine();
-        } 
+        }
     }
 
 }
